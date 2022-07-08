@@ -6,6 +6,7 @@ public class abc {
 		// TODO Auto-generated method stub
 		add(10,20);
 		sub(200,10);
+multi(200,200);
 
 	}
 
@@ -14,6 +15,9 @@ public class abc {
 	}
 	public static void sub(int a ,int b) {
 		System.out.println(a-b);
+	}
+public static void multi(int a ,int b) {
+		System.out.println(a*b);
 	}
 
 
