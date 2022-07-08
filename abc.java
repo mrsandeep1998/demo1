@@ -4,9 +4,9 @@ public class abc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		add(10,20);
+		add(100,20);
 		sub(200,10);
-multi(200,200);
+multi(205,200);
 
 	}
 
